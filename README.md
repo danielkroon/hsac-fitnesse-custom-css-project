@@ -1,4 +1,4 @@
-# computest-hsac-fitnesse-custom-theme
+# hsac-fitnesse-custom-css-project
 
 Repo for Computest's How to FitNesse Medium articles.
 
